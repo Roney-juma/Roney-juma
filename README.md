@@ -47,7 +47,7 @@ I spend most of time coding outstanding projects and learning new technologies.
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Roney_juma.Roney_juma&left_color=green&right_color=red)
+![visitors](https://profile-counter.glitch.me/Roney-juma/count.svg&left_color=green&right_color=red)
 
  
 #### Github Stats
