@@ -7,8 +7,8 @@ I spend most of time coding outstanding projects and learning new technologies.
 :mailbox: Reach out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@juma_roney-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juma_roney)](https://twitter.com/juma_roney) 
-[![Linkedin Badge](https://img.shields.io/badge/-roney-juma-software-engineer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roney-juma-software-engineer/) 
-[![Mail Badge](https://img.shields.io/badge/-Roney-juma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ochiengroneyjuma909@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-roney_juma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roney-juma-software-engineer/) 
+[![Mail Badge](https://img.shields.io/badge/-Roney_Juma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ochiengroneyjuma909@gmail.com)
 
 <!-- TODO: Add last video link -->
 
