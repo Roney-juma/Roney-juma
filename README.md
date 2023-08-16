@@ -47,11 +47,11 @@ I spend most of time coding outstanding projects and learning new technologies.
 
 #### Profile Visits
 
-![visitors](https://profile-counter.glitch.me/Roney-juma/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
 
  
 #### Github Stats
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roney-juma&theme=gruvbox)](https://github.com/Roney-juma/github-readme-stats)
+[![Roney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roney-juma&theme=gruvbox)](https://github.com/Roney-juma/github-readme-stats)
 <!-- 
 #### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roney-juma&layout=compact"/>
