@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Roney Juma, a Full Stack Software Engineer/ Systems Developer.
-I graduated from @moringaschool as a Full-Stack developer.
+I am a Computer Science graduate.
 I spend most of time coding outstanding projects and learning new technologies.
 
 :mailbox: Reach out!
