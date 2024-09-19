@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Roney Juma, a Full Stack Software Engineer/ Systems Developer.
-I am a Computer Science graduate.
-I spend most of time coding outstanding projects and learning new technologies.
+I'm Roney Juma, a Senior Backend Engineer/Software Engineer/ Systems Developer.
+As a seasoned and results-oriented Senior Backend Engineer with 5 years of experience in software development. My skills include backend development, AWS Cloud Engineering, Database management, CI/CD, Application Monitoring, Serverless architecture, and more. I'm proficient in technologies like Python (Django, Flask), Java Spring Boot, MongoDB, Node.js, and AWS Cloud Solutions.
 
-:mailbox: Reach out!
+
+:mailbox: Let's Connect!!
 
 [![Twitter Badge](https://img.shields.io/badge/-@juma_roney-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juma_roney)](https://twitter.com/juma_roney) 
 [![Linkedin Badge](https://img.shields.io/badge/-roney_juma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roney-juma-software-engineer/) 
@@ -12,8 +12,6 @@ I spend most of time coding outstanding projects and learning new technologies.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m a @moringaschool graduate in Full Stack Web Development.
-- :computer: Most used line of code `git reset `x to make sure I'm always fresh!
 - 🤔 I’m open to different kinds of projects collaborative and open source projects, ranging form software to hardware.
 - 📫 Click for instant reach! : ochiengroneyjuma909@gmail.com.
 - ⚡ Fun fact: I really really love reading non-fictional books and listening to such kind of stories because I believe in diversities of stories.
@@ -28,26 +26,30 @@ I spend most of time coding outstanding projects and learning new technologies.
 
 ### Complete Tech Stack
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> 
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/> 
+<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/> 
+<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/> 
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+<br /> <br />
 
 <br />
 <br />
+About Me
+I am a seasoned and results-oriented Senior Backend Engineer with 5 years of experience in software development. My skills include backend development, AWS Cloud Engineering, Database management, CI/CD, Application Monitoring, Serverless architecture, and more. I'm proficient in technologies like Python (Django, Flask), Java Spring Boot, MongoDB, Node.js, and AWS Cloud Solutions.
 
-#### Profile Visits
+As a natural leader and problem solver, I have a passion for collaborative work and consistently deliver efficient, scalable software solutions while keeping up with the latest tech trends.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
+Feel free to connect with me on LinkedIn, or contact me directly via email at ochiengroneyjuma909@gmail.com.
+
 
  
 #### Github Stats
