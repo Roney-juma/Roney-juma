@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Roney Juma, a Senior Backend Engineer/Software Engineer/ Systems Developer.
+I'm Roney Juma, 
+<br /> <br />
+A Senior Backend Engineer/Software Engineer/ Systems Developer.
+<br /> <br />
 As a seasoned and results-oriented Senior Backend Engineer with 5 years of experience in software development. My skills include backend development, AWS Cloud Engineering, Database management, CI/CD, Application Monitoring, Serverless architecture, and more. I'm proficient in technologies like Python (Django, Flask), Java Spring Boot, MongoDB, Node.js, and AWS Cloud Solutions.
 
 
@@ -44,16 +47,13 @@ As a seasoned and results-oriented Senior Backend Engineer with 5 years of exper
 <br />
 <br />
 About Me
+<br /> <br />
 I am a seasoned and results-oriented Senior Backend Engineer with 5 years of experience in software development. My skills include backend development, AWS Cloud Engineering, Database management, CI/CD, Application Monitoring, Serverless architecture, and more. I'm proficient in technologies like Python (Django, Flask), Java Spring Boot, MongoDB, Node.js, and AWS Cloud Solutions.
 
 As a natural leader and problem solver, I have a passion for collaborative work and consistently deliver efficient, scalable software solutions while keeping up with the latest tech trends.
 
 Feel free to connect with me on LinkedIn, or contact me directly via email at ochiengroneyjuma909@gmail.com.
 
-
- 
-#### Github Stats
-[![Roney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roney-juma&theme=gruvbox)](https://github.com/Roney-juma/github-readme-stats)
 <!-- 
 #### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roney-juma&layout=compact"/>
